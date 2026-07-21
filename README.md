@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>I design, build, and deploy fast, modern websites and web apps for small businesses.</b><br>
-  Full-stack when it counts · Hand-coded · Shipped to production · Central Virginia
+  Full-stack when it counts · Hand-coded · Shipped to production · East Coast
 </p>
 
 ---
@@ -44,6 +44,6 @@ Real businesses, designed and deployed by me. Code is kept private; the live sit
 
 ### 📫 Connect
 
-🌐 **Portfolio:** [themidlandstudio.com](https://themidlandstudio.com) &nbsp;·&nbsp; 📍 Richmond & Charlottesville, Virginia
+🌐 **Portfolio:** [themidlandstudio.com](https://themidlandstudio.com) &nbsp;·&nbsp; 📍 Virginia, serving the East Coast
 
 <sub>Building real, shipped products for real businesses. This profile grows as the work does.</sub>
