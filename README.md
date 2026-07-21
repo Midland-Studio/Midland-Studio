@@ -1,53 +1,49 @@
-<h1 align="center">Midland Studio</h1>
+<h1 align="center">Hi, I'm the founder of Midland Studio 👋</h1>
 
 <p align="center">
-  <b>Web design, local SEO & practical AI for small businesses.</b><br>
-  Serving Richmond • Charlottesville • Central Virginia
+  <b>I design, build, and deploy fast, modern websites and web apps for small businesses.</b><br>
+  Full-stack when it counts · Hand-coded · Shipped to production · Central Virginia
 </p>
 
 ---
 
-### 👋 About
+### 🚀 Featured Work
 
-I'm the founder of **Midland Studio**, a web design studio that builds fast, mobile-friendly websites for small businesses, then helps their customers actually find them with local SEO and simple AI tools.
+**🏋️ WorkoutMax** — [**Live app ↗**](https://workoutmax-ecc50.web.app)
+A full-stack **Progressive Web App** to log your lifts and compete with friends and family. User accounts, **real-time leaderboards**, invites, and personal-record tracking. Installable and offline-capable.
+`Vanilla JS` · `Firebase (Firestore · Auth · Storage)` · `PWA` · `Security rules`
 
-I build clean, hand-coded sites (HTML, CSS, JavaScript) and ship them to production with a modern Git-based deployment workflow: edit → push to GitHub → auto-deploy.
-
-- 🌎 Based in Central Virginia, serving the Richmond–Charlottesville corridor
-- 🧰 Focus: custom small-business websites, local SEO, and AI automation
-- 🚀 Every project is built to load fast, look sharp on mobile, and convert visitors into customers
-
----
-
-### 🏗️ Featured Projects
-
-| Project | What it is | Links |
-|---------|-----------|-------|
-| **Midland Studio** | My studio's own marketing site — services, pricing, SEO & AI | [🔗 Live](https://midland-studio-site.reusst33.workers.dev) · [💻 Code](https://github.com/Midland-Studio/midland-studio-site) |
-| **SeaSmart Global** | Marine / environmental site for a sargassum-interception venture | _site coming soon_ |
-| **Midland Farm** | Wedding-venue website for a Virginia event farm | _site coming soon_ |
-| **Norwoods Home & Lawn** | Lawn-care & home-services site for a Charlottesville-area business | _site coming soon_ |
-| **Musicians Discount Center** | Rebuild for a Miami music store established in 1987 | _site coming soon_ |
+**🎨 Midland Studio** — [**Live site ↗**](https://midland-studio-site.reusst33.workers.dev) · [**Code ↗**](https://github.com/Midland-Studio/midland-studio-site)
+My studio's marketing site: custom-designed, fully responsive, and shipped through a modern **Git + Cloudflare** deploy pipeline (push to deploy).
+`HTML` · `CSS` · `JavaScript` · `Brand & design system`
 
 ---
 
-### 🛠️ Tech & Tools
+### 💼 Client & Portfolio Sites
 
-`HTML` · `CSS` · `JavaScript` · `Git & GitHub` · `Cloudflare (Pages/Workers)` · `Responsive Design` · `Local SEO` · `Google Business Profile` · `AI chatbots & automation`
+Real businesses, designed and deployed by me. Code is kept private; the live sites are below.
+
+| Project | Industry | Live |
+|---------|----------|------|
+| **SeaSmart Global** | Marine / environmental | [Visit ↗](https://seasmart-global.pages.dev) |
+| **Midland Farm** | Wedding & event venue | [Visit ↗](https://midland-farm.pages.dev) |
+| **Norwoods Home & Lawn** | Lawn care & home services | [Visit ↗](https://norwoods-home-and-lawn.pages.dev) |
+| **Musicians Discount Center** | Musical instrument retail | [Visit ↗](https://musicians-discount-center.pages.dev) |
+| **Big Valley Junk Removal** | Junk removal & hauling | [Visit ↗](https://big-valley-junk-removal.pages.dev) |
 
 ---
 
-### 📈 What I do for clients
+### 🛠️ What I Work With
 
-- **Custom websites** — designed to convert, not just to look nice
-- **Local SEO** — get found on Google Maps and "near me" searches
-- **AI solutions** — chatbots and automations that save hours every week
-- **Ongoing management** — hosting, updates, and support, month to month
+**Front end:** HTML · CSS · JavaScript · responsive & mobile-first · accessibility · performance
+**Full-stack & apps:** Firebase (Firestore · Auth · Storage) · Progressive Web Apps · real-time data
+**Workflow & deploy:** Git · GitHub · Cloudflare Pages/Workers · Wrangler · continuous deployment
+**Growth:** Local SEO · Google Business Profile · analytics · AI chatbots & automation
 
 ---
 
-### 📬 Get in touch
+### 📫 Connect
 
-📞 (954) 870-2204 &nbsp;•&nbsp; 📍 Richmond & Charlottesville, VA
+🌐 **Portfolio:** [midland-studio-site.reusst33.workers.dev](https://midland-studio-site.reusst33.workers.dev) &nbsp;·&nbsp; 📍 Richmond & Charlottesville, Virginia
 
-<sub>Every project here is real work in progress — this profile grows as the studio does.</sub>
+<sub>Building real, shipped products for real businesses. This profile grows as the work does.</sub>
