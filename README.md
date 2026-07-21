@@ -13,7 +13,7 @@
 A full-stack **Progressive Web App** to log your lifts and compete with friends and family. User accounts, **real-time leaderboards**, invites, and personal-record tracking. Installable and offline-capable.
 `Vanilla JS` · `Firebase (Firestore · Auth · Storage)` · `PWA` · `Security rules`
 
-**🎨 Midland Studio** — [**Live site ↗**](https://midland-studio-site.reusst33.workers.dev) · [**Code ↗**](https://github.com/Midland-Studio/midland-studio-site)
+**🎨 Midland Studio** — [**Live site ↗**](https://themidlandstudio.com) · [**Code ↗**](https://github.com/Midland-Studio/midland-studio-site)
 My studio's marketing site: custom-designed, fully responsive, and shipped through a modern **Git + Cloudflare** deploy pipeline (push to deploy).
 `HTML` · `CSS` · `JavaScript` · `Brand & design system`
 
@@ -44,6 +44,6 @@ Real businesses, designed and deployed by me. Code is kept private; the live sit
 
 ### 📫 Connect
 
-🌐 **Portfolio:** [midland-studio-site.reusst33.workers.dev](https://midland-studio-site.reusst33.workers.dev) &nbsp;·&nbsp; 📍 Richmond & Charlottesville, Virginia
+🌐 **Portfolio:** [themidlandstudio.com](https://themidlandstudio.com) &nbsp;·&nbsp; 📍 Richmond & Charlottesville, Virginia
 
 <sub>Building real, shipped products for real businesses. This profile grows as the work does.</sub>
