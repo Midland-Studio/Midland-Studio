@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm the founder of Midland Studio 👋</h1>
+<h1 align="center">Hi, I'm the founder of The Midland Studio 👋</h1>
 
 <p align="center">
   <b>I design, build, and deploy fast, modern websites and web apps for small businesses.</b><br>
@@ -13,7 +13,7 @@
 A full-stack **Progressive Web App** to log your lifts and compete with friends and family. User accounts, **real-time leaderboards**, invites, and personal-record tracking. Installable and offline-capable.
 `Vanilla JS` · `Firebase (Firestore · Auth · Storage)` · `PWA` · `Security rules`
 
-**🎨 Midland Studio** — [**Live site ↗**](https://themidlandstudio.com) · [**Code ↗**](https://github.com/Midland-Studio/midland-studio-site)
+**🎨 The Midland Studio** — [**Live site ↗**](https://themidlandstudio.com) · [**Code ↗**](https://github.com/Midland-Studio/midland-studio-site)
 My studio's marketing site: custom-designed, fully responsive, and shipped through a modern **Git + Cloudflare** deploy pipeline (push to deploy).
 `HTML` · `CSS` · `JavaScript` · `Brand & design system`
 
